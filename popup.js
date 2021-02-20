@@ -6,7 +6,7 @@ font.addEventListener('click', () => {
 var alarmClock = {
 
         onHandler : function(e) {
-            chrome.alarms.create("myAlarm", {delayInMinutes: 1, periodInMinutes: 1} );
+            chrome.alarms.create("myAlarm", {delayInMinutes: 40, periodInMinutes: 40} );
                     window.close();
         },
 
