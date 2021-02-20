@@ -24,12 +24,12 @@
 
 {
   "manifest_version": 2,
-  "name": "YouTube Contoller",
+  "name": "Music Controller",
   "version": "1.0",
 
   "browser_action": {
-    "default_popup": "youtubeController.html",
-    "default_title": "YouTube Controller"
+    "default_popup": "musicController.html",
+    "default_title": "Music Controller"
   },
   "icons": {
 		"16": "icon16.png",
