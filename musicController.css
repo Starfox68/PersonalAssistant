@@ -1,0 +1,59 @@
+body{
+    margin:0px;
+    width:400px;
+}
+.h4{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.youtubeIconDiv{
+    float:left;
+    height:42px;
+    width:100px
+}
+.youtubeHeaderDiv{
+    float:left;
+    height:42px;
+}
+.youtubeImg{
+    height:32px;
+    width:42px;
+    margin-left:25px;
+    margin-top: 6px;
+}
+.headerText{
+    margin-bottom: 0px;
+    margin-top: 8px; 
+    margin-left:20px;
+    color:white
+}
+.playPauseButton{
+    margin-right:10px; 
+    margin-top:4px;
+}
+.nextButton{
+    margin-top:4px;
+}
+.nowPlayingText{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.nextPlayingText{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.infoWrapper{
+    border:1px solid black; 
+    margin-top:0px;
+    margin-bottom:2px;
+    padding:4px
+}
+.divHeader{
+    height: 42px; 
+    margin-bottom:2px;
+    background:black
+}
+.alert{
+    margin: 0;
+    border-radius: 0;
+}
